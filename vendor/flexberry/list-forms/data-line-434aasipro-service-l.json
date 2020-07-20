@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-434aasipro-service-e",
+  "editForm": "data-line-434aasipro-service-e",
+  "external": false,
+  "caption": "Service",
+  "name": "DataLine434aasiproserviceL",
+  "className": "serviceL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-service",
+      "modelProjection": "serviceL"
+    }
+  ]
+}

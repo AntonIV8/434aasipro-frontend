@@ -1,0 +1,4 @@
+import DataLine434aasiproservice_usage_specEController from '../data-line-434aasipro-service-usage-spec-e';
+
+var DataLine434aasiproservice_usage_specENewController = DataLine434aasiproservice_usage_specEController;
+export default DataLine434aasiproservice_usage_specENewController;

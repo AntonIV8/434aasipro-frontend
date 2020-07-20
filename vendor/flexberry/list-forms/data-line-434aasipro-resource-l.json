@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-434aasipro-resource-e",
+  "editForm": "data-line-434aasipro-resource-e",
+  "external": false,
+  "caption": "Resource",
+  "name": "DataLine434aasiproresourceL",
+  "className": "resourceL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-resource",
+      "modelProjection": "resourceL"
+    }
+  ]
+}

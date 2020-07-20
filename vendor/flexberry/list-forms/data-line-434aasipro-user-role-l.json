@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-434aasipro-user-role-e",
+  "editForm": "data-line-434aasipro-user-role-e",
+  "external": false,
+  "caption": "User_role",
+  "name": "DataLine434aasiprouser_roleL",
+  "className": "user_roleL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-user-role",
+      "modelProjection": "user_roleL"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+import DataLine434aasiproservice_spec_aclEController from '../data-line-434aasipro-service-spec-acl-e';
+
+var DataLine434aasiproservice_spec_aclENewController = DataLine434aasiproservice_spec_aclEController;
+export default DataLine434aasiproservice_spec_aclENewController;

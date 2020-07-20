@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-434aasipro-dba-e",
+  "editForm": "data-line-434aasipro-dba-e",
+  "external": false,
+  "caption": "Dba",
+  "name": "DataLine434aasiprodbaL",
+  "className": "dbaL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-dba",
+      "modelProjection": "dbaL"
+    }
+  ]
+}

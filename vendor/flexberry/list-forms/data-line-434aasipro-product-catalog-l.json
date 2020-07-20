@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-434aasipro-product-catalog-e",
+  "editForm": "data-line-434aasipro-product-catalog-e",
+  "external": false,
+  "caption": "Product_catalog",
+  "name": "DataLine434aasiproproduct_catalogL",
+  "className": "product_catalogL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-product-catalog",
+      "modelProjection": "product_catalogL"
+    }
+  ]
+}

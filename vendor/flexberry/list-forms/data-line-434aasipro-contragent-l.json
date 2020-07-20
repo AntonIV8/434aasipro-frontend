@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-434aasipro-contragent-e",
+  "editForm": "data-line-434aasipro-contragent-e",
+  "external": false,
+  "caption": "Contragent",
+  "name": "DataLine434aasiprocontragentL",
+  "className": "contragentL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-contragent",
+      "modelProjection": "contragentL"
+    }
+  ]
+}

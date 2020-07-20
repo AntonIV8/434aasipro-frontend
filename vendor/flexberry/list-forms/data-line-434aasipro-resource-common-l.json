@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-434aasipro-resource-common-e",
+  "editForm": "data-line-434aasipro-resource-common-e",
+  "external": false,
+  "caption": "Resource_common",
+  "name": "DataLine434aasiproresource_commonL",
+  "className": "resource_commonL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-resource-common",
+      "modelProjection": "resource_commonL"
+    }
+  ]
+}

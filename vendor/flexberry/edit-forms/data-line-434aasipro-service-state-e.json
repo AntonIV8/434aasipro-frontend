@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Service_state",
+  "name": "DataLine434aasiproservice_stateE",
+  "className": "service_stateE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-service-state",
+      "modelProjection": "service_stateE"
+    }
+  ]
+}

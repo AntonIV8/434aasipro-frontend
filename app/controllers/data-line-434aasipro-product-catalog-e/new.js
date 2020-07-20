@@ -1,0 +1,4 @@
+import DataLine434aasiproproduct_catalogEController from '../data-line-434aasipro-product-catalog-e';
+
+var DataLine434aasiproproduct_catalogENewController = DataLine434aasiproproduct_catalogEController;
+export default DataLine434aasiproproduct_catalogENewController;

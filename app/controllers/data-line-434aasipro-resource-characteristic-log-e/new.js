@@ -1,0 +1,4 @@
+import DataLine434aasiproresource_characteristic_logEController from '../data-line-434aasipro-resource-characteristic-log-e';
+
+var DataLine434aasiproresource_characteristic_logENewController = DataLine434aasiproresource_characteristic_logEController;
+export default DataLine434aasiproresource_characteristic_logENewController;

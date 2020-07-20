@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Grp",
+  "name": "DataLine434aasiprogrpE",
+  "className": "grpE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-grp",
+      "modelProjection": "grpE"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Resource_common",
+  "name": "DataLine434aasiproresource_commonE",
+  "className": "resource_commonE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-resource-common",
+      "modelProjection": "resource_commonE"
+    }
+  ]
+}

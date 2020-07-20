@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-434aasipro-user-group-e",
+  "editForm": "data-line-434aasipro-user-group-e",
+  "external": false,
+  "caption": "User_group",
+  "name": "DataLine434aasiprouser_groupL",
+  "className": "user_groupL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-user-group",
+      "modelProjection": "user_groupL"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+import DataLine434aasiprodictionary_valueEController from '../data-line-434aasipro-dictionary-value-e';
+
+var DataLine434aasiprodictionary_valueENewController = DataLine434aasiprodictionary_valueEController;
+export default DataLine434aasiprodictionary_valueENewController;

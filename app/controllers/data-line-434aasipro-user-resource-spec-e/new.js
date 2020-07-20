@@ -1,0 +1,4 @@
+import DataLine434aasiprouser_resource_specEController from '../data-line-434aasipro-user-resource-spec-e';
+
+var DataLine434aasiprouser_resource_specENewController = DataLine434aasiprouser_resource_specEController;
+export default DataLine434aasiprouser_resource_specENewController;

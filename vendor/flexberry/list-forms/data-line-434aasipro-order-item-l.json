@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-434aasipro-order-item-e",
+  "editForm": "data-line-434aasipro-order-item-e",
+  "external": false,
+  "caption": "Order_item",
+  "name": "DataLine434aasiproorder_itemL",
+  "className": "order_itemL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-order-item",
+      "modelProjection": "order_itemL"
+    }
+  ]
+}

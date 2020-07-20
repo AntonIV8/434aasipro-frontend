@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-434aasipro-grp-e",
+  "editForm": "data-line-434aasipro-grp-e",
+  "external": false,
+  "caption": "Grp",
+  "name": "DataLine434aasiprogrpL",
+  "className": "grpL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-grp",
+      "modelProjection": "grpL"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+import DataLine434aasiprouser_service_orderEController from '../data-line-434aasipro-user-service-order-e';
+
+var DataLine434aasiprouser_service_orderENewController = DataLine434aasiprouser_service_orderEController;
+export default DataLine434aasiprouser_service_orderENewController;

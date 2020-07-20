@@ -1,0 +1,4 @@
+import DataLine434aasiproservice_characteristic_logEController from '../data-line-434aasipro-service-characteristic-log-e';
+
+var DataLine434aasiproservice_characteristic_logENewController = DataLine434aasiproservice_characteristic_logEController;
+export default DataLine434aasiproservice_characteristic_logENewController;

@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Usr",
+  "name": "DataLine434aasiprousrE",
+  "className": "usrE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-usr",
+      "modelProjection": "usrE"
+    }
+  ]
+}

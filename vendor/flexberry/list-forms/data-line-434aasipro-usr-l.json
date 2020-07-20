@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-434aasipro-usr-e",
+  "editForm": "data-line-434aasipro-usr-e",
+  "external": false,
+  "caption": "Usr",
+  "name": "DataLine434aasiprousrL",
+  "className": "usrL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-usr",
+      "modelProjection": "usrL"
+    }
+  ]
+}

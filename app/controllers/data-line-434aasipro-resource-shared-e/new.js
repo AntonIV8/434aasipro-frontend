@@ -1,0 +1,4 @@
+import DataLine434aasiproresource_sharedEController from '../data-line-434aasipro-resource-shared-e';
+
+var DataLine434aasiproresource_sharedENewController = DataLine434aasiproresource_sharedEController;
+export default DataLine434aasiproresource_sharedENewController;

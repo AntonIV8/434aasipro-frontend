@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-434aasipro-cardinality-type-e",
+  "editForm": "data-line-434aasipro-cardinality-type-e",
+  "external": false,
+  "caption": "Cardinality_type",
+  "name": "DataLine434aasiprocardinality_typeL",
+  "className": "cardinality_typeL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-cardinality-type",
+      "modelProjection": "cardinality_typeL"
+    }
+  ]
+}

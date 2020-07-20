@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-434aasipro-service-log-e",
+  "editForm": "data-line-434aasipro-service-log-e",
+  "external": false,
+  "caption": "Service_log",
+  "name": "DataLine434aasiproservice_logL",
+  "className": "service_logL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-service-log",
+      "modelProjection": "service_logL"
+    }
+  ]
+}

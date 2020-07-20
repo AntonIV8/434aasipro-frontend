@@ -1,0 +1,4 @@
+import DataLine434aasiproresource_commonEController from '../data-line-434aasipro-resource-common-e';
+
+var DataLine434aasiproresource_commonENewController = DataLine434aasiproresource_commonEController;
+export default DataLine434aasiproresource_commonENewController;

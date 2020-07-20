@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-434aasipro-dictionary-value-e",
+  "editForm": "data-line-434aasipro-dictionary-value-e",
+  "external": false,
+  "caption": "Dictionary_value",
+  "name": "DataLine434aasiprodictionary_valueL",
+  "className": "dictionary_valueL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-dictionary-value",
+      "modelProjection": "dictionary_valueL"
+    }
+  ]
+}

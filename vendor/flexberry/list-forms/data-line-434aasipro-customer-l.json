@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-434aasipro-customer-e",
+  "editForm": "data-line-434aasipro-customer-e",
+  "external": false,
+  "caption": "Customer",
+  "name": "DataLine434aasiprocustomerL",
+  "className": "customerL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-customer",
+      "modelProjection": "customerL"
+    }
+  ]
+}

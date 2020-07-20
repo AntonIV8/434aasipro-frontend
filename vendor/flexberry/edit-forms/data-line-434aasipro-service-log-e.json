@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Service_log",
+  "name": "DataLine434aasiproservice_logE",
+  "className": "service_logE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-service-log",
+      "modelProjection": "service_logE"
+    }
+  ]
+}

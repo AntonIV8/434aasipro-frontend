@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-434aasipro-service-order-e",
+  "editForm": "data-line-434aasipro-service-order-e",
+  "external": false,
+  "caption": "Service_order",
+  "name": "DataLine434aasiproservice_orderL",
+  "className": "service_orderL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-service-order",
+      "modelProjection": "service_orderL"
+    }
+  ]
+}

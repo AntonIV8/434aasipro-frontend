@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Customer",
+  "name": "DataLine434aasiprocustomerE",
+  "className": "customerE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-customer",
+      "modelProjection": "customerE"
+    }
+  ]
+}

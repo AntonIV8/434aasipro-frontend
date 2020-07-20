@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Characteristic_type",
+  "name": "DataLine434aasiprocharacteristic_typeE",
+  "className": "characteristic_typeE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-characteristic-type",
+      "modelProjection": "characteristic_typeE"
+    }
+  ]
+}

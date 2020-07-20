@@ -1,0 +1,288 @@
+﻿{
+  "applicationCaption": "Proto one",
+  "applicationTitle": "Proto one",
+  "items": [
+    {
+      "link": null,
+      "menuName": "proto-one",
+      "caption": "ProtoOne",
+      "title": "ProtoOne",
+      "children": [
+        {
+          "link": "data-line-434aasipro-dictionary-l",
+          "menuName": null,
+          "caption": "Dictionary",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-user-service-spec-l",
+          "menuName": null,
+          "caption": "User_service_spec",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-resource-characteristic-l",
+          "menuName": null,
+          "caption": "Resource_characteristic",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-user-group-l",
+          "menuName": null,
+          "caption": "User_group",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-resource-spec-l",
+          "menuName": null,
+          "caption": "Resource_spec",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-resource-spec-characteristic-l",
+          "menuName": null,
+          "caption": "Resource_spec_characteristic",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-service-l",
+          "menuName": null,
+          "caption": "Service",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-product-catalog-l",
+          "menuName": null,
+          "caption": "Product_catalog",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-role-l",
+          "menuName": null,
+          "caption": "Role",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-order-state-l",
+          "menuName": null,
+          "caption": "Order_state",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-customer-l",
+          "menuName": null,
+          "caption": "Customer",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-service-characteristic-l",
+          "menuName": null,
+          "caption": "Service_characteristic",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-resource-shared-l",
+          "menuName": null,
+          "caption": "Resource_shared",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-service-spec-characteristic-l",
+          "menuName": null,
+          "caption": "Service_spec_characteristic",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-resource-common-l",
+          "menuName": null,
+          "caption": "Resource_common",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-customer-acl-l",
+          "menuName": null,
+          "caption": "Customer_acl",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-usr-l",
+          "menuName": null,
+          "caption": "Usr",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-order-item-l",
+          "menuName": null,
+          "caption": "Order_item",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-service-spec-l",
+          "menuName": null,
+          "caption": "Service_spec",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-service-state-l",
+          "menuName": null,
+          "caption": "Service_state",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-user-service-order-l",
+          "menuName": null,
+          "caption": "User_service_order",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-contragent-l",
+          "menuName": null,
+          "caption": "Contragent",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-catalog-l",
+          "menuName": null,
+          "caption": "Catalog",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-resource-characteristic-log-l",
+          "menuName": null,
+          "caption": "Resource_characteristic_log",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-resource-log-l",
+          "menuName": null,
+          "caption": "Resource_log",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-grp-l",
+          "menuName": null,
+          "caption": "Grp",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-resource-l",
+          "menuName": null,
+          "caption": "Resource",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-user-role-l",
+          "menuName": null,
+          "caption": "User_role",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-service-spec-acl-l",
+          "menuName": null,
+          "caption": "Service_spec_acl",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-service-characteristic-log-l",
+          "menuName": null,
+          "caption": "Service_characteristic_log",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-service-log-l",
+          "menuName": null,
+          "caption": "Service_log",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-resource-usage-spec-l",
+          "menuName": null,
+          "caption": "Resource_usage_spec",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-cardinality-type-l",
+          "menuName": null,
+          "caption": "Cardinality_type",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-service-usage-spec-l",
+          "menuName": null,
+          "caption": "Service_usage_spec",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-user-resource-spec-l",
+          "menuName": null,
+          "caption": "User_resource_spec",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-service-order-l",
+          "menuName": null,
+          "caption": "Service_order",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-characteristic-type-l",
+          "menuName": null,
+          "caption": "Characteristic_type",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-dictionary-value-l",
+          "menuName": null,
+          "caption": "Dictionary_value",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "data-line-434aasipro-dba-l",
+          "menuName": null,
+          "caption": "Dba",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

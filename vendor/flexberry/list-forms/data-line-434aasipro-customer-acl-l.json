@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-434aasipro-customer-acl-e",
+  "editForm": "data-line-434aasipro-customer-acl-e",
+  "external": false,
+  "caption": "Customer_acl",
+  "name": "DataLine434aasiprocustomer_aclL",
+  "className": "customer_aclL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-customer-acl",
+      "modelProjection": "customer_aclL"
+    }
+  ]
+}

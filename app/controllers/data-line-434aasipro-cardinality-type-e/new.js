@@ -1,0 +1,4 @@
+import DataLine434aasiprocardinality_typeEController from '../data-line-434aasipro-cardinality-type-e';
+
+var DataLine434aasiprocardinality_typeENewController = DataLine434aasiprocardinality_typeEController;
+export default DataLine434aasiprocardinality_typeENewController;

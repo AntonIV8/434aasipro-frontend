@@ -1,0 +1,4 @@
+import DataLine434aasiproresource_spec_characteristicEController from '../data-line-434aasipro-resource-spec-characteristic-e';
+
+var DataLine434aasiproresource_spec_characteristicENewController = DataLine434aasiproresource_spec_characteristicEController;
+export default DataLine434aasiproresource_spec_characteristicENewController;

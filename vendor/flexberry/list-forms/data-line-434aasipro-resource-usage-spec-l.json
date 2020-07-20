@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-434aasipro-resource-usage-spec-e",
+  "editForm": "data-line-434aasipro-resource-usage-spec-e",
+  "external": false,
+  "caption": "Resource_usage_spec",
+  "name": "DataLine434aasiproresource_usage_specL",
+  "className": "resource_usage_specL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-resource-usage-spec",
+      "modelProjection": "resource_usage_specL"
+    }
+  ]
+}

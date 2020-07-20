@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-434aasipro-resource-shared-e",
+  "editForm": "data-line-434aasipro-resource-shared-e",
+  "external": false,
+  "caption": "Resource_shared",
+  "name": "DataLine434aasiproresource_sharedL",
+  "className": "resource_sharedL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-resource-shared",
+      "modelProjection": "resource_sharedL"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Catalog",
+  "name": "DataLine434aasiprocatalogE",
+  "className": "catalogE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-434aasipro-catalog",
+      "modelProjection": "catalogE"
+    }
+  ]
+}

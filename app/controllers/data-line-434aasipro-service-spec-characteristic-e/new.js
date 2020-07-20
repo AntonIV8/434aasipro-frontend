@@ -1,0 +1,4 @@
+import DataLine434aasiproservice_spec_characteristicEController from '../data-line-434aasipro-service-spec-characteristic-e';
+
+var DataLine434aasiproservice_spec_characteristicENewController = DataLine434aasiproservice_spec_characteristicEController;
+export default DataLine434aasiproservice_spec_characteristicENewController;
